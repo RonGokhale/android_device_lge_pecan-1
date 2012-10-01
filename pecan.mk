@@ -21,8 +21,8 @@ PRODUCT_PACKAGES += \
    libtilerenderer \
    hwcomposer.default \
    libQcomUI \
-   libgralloc \
-   copybit.pecan  \
+   gralloc.msm7x27 \
+   copybit.msm7x27  \
    camera.pecan
 
 # Audio
