@@ -21,7 +21,7 @@ PRODUCT_PACKAGES += \
    libtilerenderer \
    hwcomposer.default \
    libQcomUI \
-   libgralloc \
+   gralloc.pecan \
    copybit.pecan  \
    camera.pecan
 
